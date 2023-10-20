@@ -19,7 +19,7 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/monitoramento-de-pedidos.git
+   git clone https://github.com/Jonathanovaes/Front-end-leveros.git
 
 2. Instale as dependências do projeto:
    npm install
